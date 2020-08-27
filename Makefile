@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := gpio
+PROJECT_NAME := gpio_button
 
 include $(IDF_PATH)/make/project.mk
 
