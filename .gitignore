@@ -1,0 +1,12 @@
+# SDK config
+sdkconfig
+sdkconfig.old
+
+# VS Code Settings
+.vscode/
+
+# Results for the checking of the Python coding style
+flake8_output.txt
+
+# ESP-IDF build
+build
